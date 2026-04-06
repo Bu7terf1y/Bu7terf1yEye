@@ -410,7 +410,7 @@ text = '\033[36m'+r"""
 [*]Version: 1.0.0
 [*]Author: Bu7terf1y
 [*]联系方式：Bu7terf1y
-[*]Github:https://www.github.com/xxx/xxx\033[0m
+[*]Github:https://github.com/Bu7terf1y/Bu7terf1yEye\033[0m
 """
 
 def main_menu():
